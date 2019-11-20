@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "658967986038",
+    "firebase_url": "https://awsomchat.firebaseio.com",
+    "project_id": "awsomchat",
+    "storage_bucket": "awsomchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658967986038:android:b0f2faaf38f90e7d9dc457",
+        "android_client_info": {
+          "package_name": "com.example.awesomechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658967986038-epqunftcgh7vbd2ra4r65g3l6stbffcl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.awesomechat",
+            "certificate_hash": "eeeda95b26fdeb89e721e71c5d05d0a0c79762fe"
+          }
+        },
+        {
+          "client_id": "658967986038-p12k29oiukovrhdlar4us5jpgi8q9jm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwuIoiEQc3CtEZskZF-t_zz86CYF3SufA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658967986038-p12k29oiukovrhdlar4us5jpgi8q9jm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
